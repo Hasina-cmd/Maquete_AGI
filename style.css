@@ -1,0 +1,91 @@
+.Hasina{
+    margin-top: 50px;
+}
+
+.Hasina{
+
+    height: 500px;
+    width: 600px;
+    margin-left: 600px;
+}
+.Hasina h1{
+    color: #1f3684;
+    text-align: center;
+}
+
+.Hasina .text{
+    text-align: center;
+}
+
+footer{
+    margin-top:200px ;
+    background-color: #1f3684;
+    padding-top: 70px;
+}
+
+footer .liens{
+    display: flex;
+    flex-wrap:nowrap;
+    justify-content:space-around;
+
+}
+
+footer a{
+    color:#b2c1e1;
+    text-decoration: none;
+
+}
+
+footer .liens p{
+    margin-left: 60px;
+}
+
+footer .liens .AGI h2 a{
+    color: #9b8e7d;
+}
+footer h2{
+    text-align: center;
+    color: #ffebff;
+}
+
+footer .liens .contact i{
+    color: #b2c1e1;
+}
+footer .liens .AGI{
+    height: 200px;
+    width: 400px;
+    border-right: 1px solid #b2c1e1 ;
+}
+
+footer .liens .Liens_utiles{
+    height: 200px;
+    width: 400px;
+    border-right: 1px solid #b2c1e1 ;
+}
+
+footer .liens .contact{
+    height: 200px;
+    width: 400px;
+    border-right: 1px solid #b2c1e1 ;
+    color: #b2c1e1;
+}
+
+footer .liens .logo{
+    height: 200px;
+    width: 400px;
+    border-right: 1px  ;
+}
+
+footer .liens .logo p{
+    display: inline;
+    font-size: 50px;
+    color: white;
+}
+footer .dernier{
+    margin-top: 20px;
+    text-align: center;
+    border-top: #b2c1e1 1px solid;
+    padding-bottom: 4px;
+    padding-left: 20px;
+    color: #b2c1e1;
+}
