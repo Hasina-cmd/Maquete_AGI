@@ -89,3 +89,57 @@ footer .dernier{
     padding-left: 20px;
     color: #b2c1e1;
 }
+
+.site{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.site .h img{
+    height: 600px;
+    width: 600px;
+}
+
+.site .Text{
+    height: 450px;
+    width: 500px;
+    text-align: center;
+    margin: 0 30px;
+}
+
+.site .Text h3{
+    color: #1b3780;
+}
+
+.site .Text h4{
+    color: #1b3780;
+}
+
+.site .Text h2{
+    color: #1b3780;
+    font-size: 20px;
+    border-top: #1b3780 dashed;
+    padding-top: 20px;
+}
+
+.site .Ptext{
+    color: #625a61;
+}
+
+.site .boutton button{
+    border-bottom: #1b3780;
+    border-radius: 60px;
+    background-color: #362c36;
+    font-size:15px;
+    cursor: pointer;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.site .boutton a{
+    color: #a2b4b6;
+    text-decoration:none ;
+    font-size: 15px;
+
+}
