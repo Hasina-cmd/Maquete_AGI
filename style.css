@@ -186,7 +186,7 @@ footer .dernier{
 .philosophie .badge{
     display: inline-block;
     background-color: rgb(171, 208, 238);
-    color: rgb(73, 110, 143);
+    color: rgb(86, 102, 119);
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
@@ -198,8 +198,8 @@ footer .dernier{
     max-width: fit-content;
 }
 .badge:hover{
-    background-color: rgb(5, 82, 184);
-    color: antiquewhite;
+    background-color: rgb(49, 82, 124);
+    color: rgba(250, 235, 215, 0.856);
     transform: translateY(-2px);
     box-shadow: 0 4px 8px rgb(91, 91, 122);
 }
