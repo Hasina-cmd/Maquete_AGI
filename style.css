@@ -1,3 +1,31 @@
+
+header nav{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+}
+header nav section .sspr a{
+    margin-top: 35px;
+    margin-left: 20px;
+    color: darkgrey;
+    text-decoration: none;
+    
+}
+header nav .sspr .msspr {
+    color: rgb(235, 182, 139);
+    border-bottom: 2px solid rgb(235, 182, 139);
+    margin-top: 35px;
+    margin-left: 20px;
+
+}
+header nav i{
+    margin-top: 35px;
+}
+section img{
+    width: 1300px; 
+    
+}
+
 .Hasina{
     margin-top: 50px;
 }
